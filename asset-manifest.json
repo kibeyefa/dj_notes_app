@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dj_notes_app/static/css/main.fd1e6eb3.chunk.css",
-    "main.js": "/dj_notes_app/static/js/main.88134bad.chunk.js",
-    "main.js.map": "/dj_notes_app/static/js/main.88134bad.chunk.js.map",
+    "main.js": "/dj_notes_app/static/js/main.b4653ff2.chunk.js",
+    "main.js.map": "/dj_notes_app/static/js/main.b4653ff2.chunk.js.map",
     "runtime-main.js": "/dj_notes_app/static/js/runtime-main.59ec7880.js",
     "runtime-main.js.map": "/dj_notes_app/static/js/runtime-main.59ec7880.js.map",
     "static/js/2.181f89ef.chunk.js": "/dj_notes_app/static/js/2.181f89ef.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.59ec7880.js",
     "static/js/2.181f89ef.chunk.js",
     "static/css/main.fd1e6eb3.chunk.css",
-    "static/js/main.88134bad.chunk.js"
+    "static/js/main.b4653ff2.chunk.js"
   ]
 }
