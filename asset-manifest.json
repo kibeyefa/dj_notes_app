@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dj_notes_app/static/css/main.fd1e6eb3.chunk.css",
+    "main.js": "/dj_notes_app/static/js/main.88134bad.chunk.js",
+    "main.js.map": "/dj_notes_app/static/js/main.88134bad.chunk.js.map",
+    "runtime-main.js": "/dj_notes_app/static/js/runtime-main.59ec7880.js",
+    "runtime-main.js.map": "/dj_notes_app/static/js/runtime-main.59ec7880.js.map",
+    "static/js/2.181f89ef.chunk.js": "/dj_notes_app/static/js/2.181f89ef.chunk.js",
+    "static/js/2.181f89ef.chunk.js.map": "/dj_notes_app/static/js/2.181f89ef.chunk.js.map",
+    "static/js/3.8a23904b.chunk.js": "/dj_notes_app/static/js/3.8a23904b.chunk.js",
+    "static/js/3.8a23904b.chunk.js.map": "/dj_notes_app/static/js/3.8a23904b.chunk.js.map",
+    "index.html": "/dj_notes_app/index.html",
+    "static/css/main.fd1e6eb3.chunk.css.map": "/dj_notes_app/static/css/main.fd1e6eb3.chunk.css.map",
+    "static/js/2.181f89ef.chunk.js.LICENSE.txt": "/dj_notes_app/static/js/2.181f89ef.chunk.js.LICENSE.txt",
+    "static/media/add.ebf59862.svg": "/dj_notes_app/static/media/add.ebf59862.svg",
+    "static/media/arrow-left.b553318e.svg": "/dj_notes_app/static/media/arrow-left.b553318e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59ec7880.js",
+    "static/js/2.181f89ef.chunk.js",
+    "static/css/main.fd1e6eb3.chunk.css",
+    "static/js/main.88134bad.chunk.js"
+  ]
+}
